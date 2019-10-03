@@ -34,4 +34,5 @@ module.exports = {
       babelConfig: true,
     },
   },
+  setupFiles: ['<rootDir>/tests/unit/setup.ts'],
 };
