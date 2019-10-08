@@ -1,5 +1,5 @@
 <template>
-  <HelloWorld msg="Hello, world!" />
+  <v-carousel continuous height="300" hide-delimiters show-arrows></v-carousel>
 </template>
 
 <script lang="ts">
