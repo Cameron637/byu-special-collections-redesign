@@ -12,7 +12,7 @@
     </v-app-bar>
 
     <v-content>
-      <HelloWorld />
+      <HelloWorld msg="Hello, world!" />
     </v-content>
   </v-app>
 </template>
