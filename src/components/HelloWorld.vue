@@ -121,6 +121,6 @@ export default class HelloWorld extends Vue {
     },
   ];
 
-  @Prop({ type: String }) msg;
+  @Prop({ type: String }) msg!: string;
 }
 </script>
